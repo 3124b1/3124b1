@@ -10,14 +10,14 @@ Hi there 👋
 
 #### 주요 프로젝트
 
-✨ 2026 미래내일 일경험 지원사업 프로젝트형 · 4인 팀 _ [카페24·네이버 판매 데이터 통합 파이프라인](https://github.com/3124b1/n8n-jagalchi-sales-data-pipeline)
+✨ 2026 미래내일 일경험 지원사업 프로젝트형 _ [카페24·네이버 판매 데이터 통합 파이프라인](https://github.com/3124b1/n8n-jagalchi-sales-data-pipeline)
 
 - 카페24·네이버 판매 데이터를 수집·정제하고 BI 대시보드로 연결한 기업 연계 프로젝트
 - 담당: n8n 파이프라인 설계, 상품명 표준화, 고객 지표 집계, Google Sheets 적재 및 BI 연동
 
 #### 진행 중인 프로젝트
 
-✨ 2026 TRAITHON 본선 진행 중 · 4인 팀 _ [복지 기사 검토 AI의 데이터 선정과 평가 기준](https://github.com/3124b1/ai-clickbait-service)
+✨ 2026 TRAITHON 본선 진행 중 _ [복지 기사 검토 AI의 데이터 선정과 평가 기준](https://github.com/3124b1/ai-clickbait-service)
 
 - 복지 기사 제목의 지원 조건을 본문 근거와 대조하고, 기사 검수자의 판단을 돕는 AI 서비스 프로젝트
 - 담당: 기사 후보 선정·중복 대조, 조건별 기준 답안 작성, 판정 기준 조정, 엔지니어와 평가 요구사항 조율
