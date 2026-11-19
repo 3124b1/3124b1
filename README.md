@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+Hi there 👋
+<br /><br />
+</div
+  
+< 주요 프로젝트 >
 
-<!--
-**3124b1/3124b1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨2026 미래내일 일경험 지원사업 프로젝트형 · 4인 팀 _ [카페24·네이버 판매 데이터 통합 파이프라인](https://github.com/3124b1/n8n-jagalchi-sales-data-pipeline)
 
-Here are some ideas to get you started:
+- 카페24·네이버 판매 데이터를 수집·정제하고 BI 대시보드로 연결한 기업 연계 프로젝트
+- 담당: n8n 파이프라인 설계, 상품명 표준화, 고객 지표 집계, Google Sheets 적재 및 BI 연동
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+< 진행중인 프로젝트 >
+
+✨2026 TRAITHON 본선 진행 중 · 아쿠아넷 AquaNet(4인 팀)_ [복지 기사 검토 AI의 데이터 선정과 평가 기준](https://github.com/3124b1/ai-clickbait-service)
+
+- 복지 기사 제목의 지원 조건을 본문 근거와 대조하고, 기사 검수자의 판단을 돕는 AI 서비스 프로젝트
+- 담당: 기사 후보 선정·중복 대조, 조건별 기준 답안 작성, 판정 기준 조정, 엔지니어와 평가 요구사항 조율
+- 주요 작업: 기사 44건 × 5개 조건의 판정·근거 작성, 오류의 영향과 검수 부담을 고려한 인간 검토 조건 제안
